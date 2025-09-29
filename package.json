@@ -1,5 +1,5 @@
 {
-  "name": "e-commerce express",
+  "name": "e-commerce-express",
   "packageManager": "yarn@4.9.2",
   "version": "1.0.0",
   "type": "module",
